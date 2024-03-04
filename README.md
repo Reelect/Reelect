@@ -1,4 +1,5 @@
 ### Hi there 👋 This is Lee, Jaesun
+(🍲Gukbap(a Korean dish) is the most delicious food!)
 
 Interested in **Cloud☁️ automation, AI🦾 service operations**
 

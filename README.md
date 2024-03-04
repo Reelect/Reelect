@@ -37,6 +37,6 @@ Present: 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023.09
   </p>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rejaealsun)](https://solved.ac/rejaealsun/)
-
 [![Reelect's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reelect)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rejaealsun)](https://solved.ac/rejaealsun/)

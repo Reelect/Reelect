@@ -20,7 +20,6 @@ Present: 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023.09
 
   <h4>DevOps</h4>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
   <br />

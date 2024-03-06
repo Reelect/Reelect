@@ -13,7 +13,7 @@ Present: 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023.09
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>&nbsp
   <br />
-    <img src="https://img.shields.io/badge/pyQT-41CD52?style=flat&logo=qt&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/PyQT-41CD52?style=flat&logo=qt&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>&nbsp
